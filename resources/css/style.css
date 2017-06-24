@@ -198,3 +198,13 @@ footer{
 .footer-text{
   text-align:left;
 }
+@media only screen and (max-width: 1024px;){
+  html{
+    font-size: 16px;
+  }
+  nav span{
+    display: none;
+
+  }
+
+}
